@@ -1,6 +1,8 @@
 
 
 // =================================== Qoutes ===================================
+// all rights reserved for "https://gist.github.com/nasrulhazim/54b659e43b1035215cd0ba1d4577ee80" for qoutes.
+
 var	quotes = [
 {quote:"Life isn’t about getting and having, it’s about giving and being.",author:"Kevin Kruse"},
 {quote:"Whatever the mind of man can conceive and believe, it can achieve.",author:"Napoleon Hill"},
