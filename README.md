@@ -26,8 +26,6 @@ css/
 js/
   bootstrap.bundle.min.js
   main.js
-images/
-  ... (image assets)
 webfonts/
   ... (font assets)
 ```
